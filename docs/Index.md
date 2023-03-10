@@ -1,6 +1,6 @@
-# [[Map of Content]]
----
 History of the Internet: A story about power, people, culture, and materials. The ‘internet’ isn’t a thing, it’s a place and since time and space are unified, it’s an age.
+
+# [[Map of Content]]
 
 ---  
 ### This course will be seperated into 3 Modules:
